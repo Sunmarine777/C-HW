@@ -1,7 +1,12 @@
 ﻿//Example1
-int a = 2;
-int b = 3;
-int c = 7;
+Console.WriteLine("Enter 3 numbers : ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("");
+int b = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("");
+int c = Convert.ToInt32(Console.ReadLine());
 
 int max = a;
 
@@ -9,10 +14,12 @@ if (a > max) max = a;
 if (b > max) max = b;
 if (c > max) max = c;
 
-Console.WriteLine(max);
+Console.Write(a + ", "+ b + ", "+ c + " -> " + max);
 
 /*Example2
-int a = 44, b = 5, c = 78;
+int a = 44;
+int b = 5;
+int c = 78;
 
 int max = a;
 
