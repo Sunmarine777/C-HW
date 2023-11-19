@@ -1,6 +1,9 @@
-﻿// Example1
-int a = 5;
-int b = 7;
+﻿//Example1
+Console.Write("FirstNumber: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("SecondNumber: ");
+int b = Convert.ToInt32(Console.ReadLine());
 
 int max = a;
 int min = a;
@@ -16,8 +19,10 @@ Console.Write(min);
 Console.Write(" is smaller");
 
 /*Example2
-int a = 2;
-int b = 10;
+Console.Write("a = ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("b = ");
+int b = Convert.ToInt32(Console.ReadLine());
 
 int max = a;
 int min = a;
@@ -31,9 +36,9 @@ Console.Write("max = ");
 Console.WriteLine(max);
 Console.WriteLine("and");
 Console.Write("min = ");
-Console.Write(min);
+Console.Write(min);*/
 
-Example3
+/*Example3
 int a = -9;
 int b = -3;
 
