@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marina\\Desktop\\C#HW\\Task2\\Task2.csproj": {}
+    "C:\\Users\\Marina\\Desktop\\CHW\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marina\\Desktop\\C#HW\\Task2\\Task2.csproj": {
+    "C:\\Users\\Marina\\Desktop\\CHW\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marina\\Desktop\\C#HW\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\Marina\\Desktop\\CHW\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\Marina\\Desktop\\C#HW\\Task2\\Task2.csproj",
+        "projectPath": "C:\\Users\\Marina\\Desktop\\CHW\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marina\\Desktop\\C#HW\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\Marina\\Desktop\\CHW\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
